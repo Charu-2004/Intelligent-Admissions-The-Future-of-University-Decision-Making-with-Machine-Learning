@@ -2,8 +2,7 @@
 
 ## Intelligent Admissions: The Future of University Decision Making with Machine Learning
 
-[Video Demonstration](https://drive.google.com/file/d/1MjIa3aD7EClZ2EFKlYMKP-p44AyGjL6I/view?usp=share_link)
-
+[Video Demonstration]https://youtu.be/csB960B_ezk
 This project currently makes use of [Google Colab](https://colab.research.google.com/) and [Ngrok](https://ngrok.com/).
 
 Local execution doesn't require these web services and may need some code modifications to be run locally, provided that all the necessary python packages are installed.
